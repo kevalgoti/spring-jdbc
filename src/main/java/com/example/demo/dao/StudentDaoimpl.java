@@ -6,6 +6,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 
 import com.example.demo.entites.Student;
 
+
 public class StudentDaoimpl implements StudentDao {
 
     private final JdbcTemplate jdbcTemplate;
